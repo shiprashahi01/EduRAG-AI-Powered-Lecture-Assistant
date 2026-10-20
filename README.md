@@ -1,8 +1,5 @@
 # EduRAG-AI-Powered-Lecture-Assistant
 AI-powered lecture assistant that transcribes lectures, generates summaries and key learning points, and answers questions using Retrieval-Augmented Generation (RAG).
-# EduRAG — AI-Powered Lecture Assistant
-
-EduRAG is an AI-powered educational assistant that helps students understand and revise lectures by converting audio and video content into useful study material.
 
 ## Features
 
